@@ -1,9 +1,4 @@
-INSTALL Comand
 
-$chmod +x install.sh
-
-
-$ ./install.sh
 
 
 
@@ -18,3 +13,17 @@ Linux üçün öz serverinizdə işləyən şəbəkə kəşfi və canlı topolog
 Türkçe
 
 Linux için kendi sunucunuzda çalışan ağ keşfi ve canlı topoloji haritası. Gerçek zamanlı cihaz izleme (ICMP/ARP), model düzeyinde tanıma (iPhone, Android, kamera, NVR/DVR), LLDP/SNMP tabanlı gerçek bağlantılar ve koyu SOC tarzı web arayüzü. Yalnızca savunma amaçlı.
+
+
+
+
+
+
+
+
+INSTALL Comand
+
+$chmod +x install.sh
+-
+-
+$ ./install.sh
