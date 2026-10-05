@@ -1,0 +1,2 @@
+sudo bash -c 'systemctl disable --now network-map 2>/dev/null; rm -f /etc/systemd/system/network-map.service; rm -rf /opt/network-map; systemctl daemon-reload; systemctl reset-failed 2>/dev/null; echo "Network Map Detele"' && sudo apt-get remove -y nmap snmp traceroute arping
+
