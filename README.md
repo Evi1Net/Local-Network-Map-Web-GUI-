@@ -1,6 +1,8 @@
 INSTALL Comand
 
 $chmod +x install.sh
+
+
 $ ./install.sh
 
 
