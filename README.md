@@ -21,7 +21,7 @@ Linux için kendi sunucunuzda çalışan ağ keşfi ve canlı topoloji haritası
 
 
 
-INSTALL Comand
+INSTALL Command
 --------------
 --------------
 $chmod +x install.sh
